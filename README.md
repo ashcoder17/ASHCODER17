@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Ashu Singh!!!
+
+Connect with me :
+
 
 <!--
 **ashcoder17/ASHCODER17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
